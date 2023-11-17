@@ -4,7 +4,7 @@
 The dataset contains information about the 244 orders served at a restaurant in the United States. Each observation includes the factors related to the order like total bill, time, the total number of people in a group, gender of the person paying for the order and so on.
 
 Attribute Information:
-# total_bill: Total bill (cost of the meal), including tax, in US dollars
+#### total_bill: Total bill (cost of the meal), including tax, in US dollars
 # tip: Tip in US dollars
 # sex: Sex of person paying for the meal
 # smoker: There is a smoker in a group or not
